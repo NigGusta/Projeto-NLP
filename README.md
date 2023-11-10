@@ -1,8 +1,13 @@
 # Projeto-NLP
 
 ** **
-Projeto da cadeira de Processamento de Linguagem Natural, trabalhando com tradução de inglês para português utilizando dados de hotéis,
-realizando todo o tratamento deles para não trabalhar com dados nulos e incompletos, e ver o resultado dos reviews dos 10 melhores hotéis.
+Projeto de Processamento de Linguagem Natural, trabalhando com redes neurais para a tradução de dados de hotéis.
+
+
+Tradução do inglês para o português.
+
+
+realizando todo o tratamento para não trabalhar com dados nulos e incompletos, indo em busca resultado dos reviews dos 10 melhores hotéis melhor votados no nosso dataset.
 ** **
 
 Instituição: Universidade Federal da Paraíba
