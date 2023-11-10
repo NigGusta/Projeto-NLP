@@ -2,14 +2,18 @@ Projeto-NLP 🏨🔍🌐
 ** **
 Detalhes do Projeto:
 Projeto de Processamento de Linguagem Natural (NLP) com foco na tradução de dados de hotéis,
+
 utilizando redes neurais.
 
 Objetivo:
 Desenvolver um sistema  de tradução do inglês para o português, com ênfase na análise dos reviews 
+
 dos 10 melhores hotéis em nosso dataset.
 ** **
 Tratamento de Dados:
-Realizando um tratamento abrangente para lidar com todos os dados nulos e incompletos, e assegurando a qualidade e integridade total dos resultados .
+Realizando um tratamento abrangente para lidar com todos os dados nulos e incompletos, e assegurando 
+
+a qualidade e integridade total dos resultados .
 ** **
 Instituição:
 Universidade Federal da Paraíba 🎓
