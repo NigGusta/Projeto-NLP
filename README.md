@@ -2,8 +2,11 @@
 
 ** **
 Participantes:
+
 Gustavo Araujo
+
 Esdras Santana
+
 Ismael Araujo
 ** **
 Projeto da cadeira de Processamento de Linguagem Natural, trabalhando com tradução de inglês para português utilizando dados de hotéis,
